@@ -1,4 +1,4 @@
-## Mục tiêu của bài test
+## Mục tiêu
 1. JSON web token (jwt) và áp dụng jwt cho thao tác liên quan đến chứng thực (authentication) người dùng cho ứng dụng sử dụng RESTful API.
 2. Nắm được cách sử dụng controller của framework NESTJS.
 3. Nắm được các http status code phổ biến dải từ 2xx, 3xx, 4xx.
